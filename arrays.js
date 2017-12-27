@@ -1,3 +1,4 @@
 const month = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const week = ['']
 
 console.log(month.join(','));
